@@ -16,3 +16,7 @@ print("The avg of two number is:", average)
 # Multiply
 MULTIPLE = num1 * num2
 print("The multiply value of two number is:", MULTIPLE)
+
+# Subtraction
+Subtract = num1 - num2
+print("The subtract value is:", Subtract)
